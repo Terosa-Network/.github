@@ -16,8 +16,8 @@ Custom Forum: We’ve also designed and developed our very own forum for discuss
 ## Technologies We Use
 Our projects are built using a wide range of programming languages and frameworks:
 
-Languages: Java, JavaScript, CSS, HTML, PHP
-Frameworks & Tools: Vue.js, Pug, Paper API
+**Languages:** Java, JavaScript, CSS, HTML, PHP   
+**Frameworks & Tools:** Vue.js, Pug, Paper API
 
 ## What Is This Place?
 This GitHub organization is the core of our development efforts, where all our projects come to life. From crafting advanced game servers to writing robust bots and web platforms, this is where innovation meets execution.
