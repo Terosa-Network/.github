@@ -9,9 +9,9 @@ Together, we combine our expertise to create engaging platforms, tools, and expe
 
 ## What We Do
 
-Terosa-Network Minecraft Server: We’ve developed Terosa-Network.de, a Minecraft server offering unique and revamped gamemodes tailored to provide players with fresh and thrilling experiences.
-Community Discord Server: Our community thrives on Discord, powered entirely by self-written bots designed to enhance user interactions.
-Custom Forum: We’ve also designed and developed our very own forum for discussions and updates, showcasing our commitment to high-quality web development for our Minecraft server.
+**Terosa-Network Minecraft Server:** We’ve developed Terosa-Network.de, a Minecraft server offering unique and revamped gamemodes tailored to provide players with fresh and thrilling experiences.   
+**Community Discord Server:** Our community thrives on Discord, powered entirely by self-written bots designed to enhance user interactions.   
+**Web Applications:** We’ve also designed and developed our very own forum for discussions and updates, showcasing our commitment to high-quality web development for our Minecraft server.   
 
 ## Technologies We Use
 Our projects are built using a wide range of programming languages and frameworks:
