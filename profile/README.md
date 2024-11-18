@@ -2,9 +2,9 @@
 ## Who We Are
 Terosa-Network is a passionate and innovative development team led by three dedicated creators:
 
-@igabybc - Lead Developer of All Teams
-@Unbemerkt - Lead Developer for the Minecraft Server
-@OriginalKannWa - Lead Developer of the Discord Bots and Server Owner
+**@igabybc** - Lead Developer of All Organisation   
+**@Unbemerkt** - Lead Developer for the Minecraft Server   
+**@OriginalKannWa** - Lead Developer of the Discord Bots and Server Owner   
 Together, we combine our expertise to create engaging platforms, tools, and experiences for our growing community.
 
 ## What We Do
