@@ -17,7 +17,7 @@ Together, we combine our expertise to create engaging platforms, tools, and expe
 Our projects are built using a wide range of programming languages and frameworks:
 
 **Languages:** Java, JavaScript, CSS, HTML, PHP   
-**Frameworks & Tools:** Vue.js, Pug, Paper API
+**Frameworks & Tools:** Vue.js, Paper API
 
 ## What Is This Place?
 This GitHub organization is the core of our development efforts, where all our projects come to life. From crafting advanced game servers to writing robust bots and web platforms, this is where innovation meets execution.
